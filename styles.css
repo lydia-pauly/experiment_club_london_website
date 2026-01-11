@@ -1,0 +1,42 @@
+body {
+    background-color: #181a1b;
+    margin-left: 6rem;
+    margin-right: 6rem;
+}
+
+h1, h2, h3, h4, h5, p, ol, ul {
+    color: #EBEBD3;
+}
+
+h1, h2, h3 {
+  font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+    font-size: 19px;
+    font-weight: 900;
+}
+
+a {
+    color:#F4D35E;
+}
+
+h4, h5, h6, p, ol, ul {
+  font-family: "Cutive Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.highlight-colour-3 {
+    color: #F4D35E;
+}
+
+.highlight-colour-2 {
+    color: #EE964B;
+}
+
+.highlight-colour-1 {
+    color: #F95738;
+}
